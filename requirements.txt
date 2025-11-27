@@ -3,4 +3,4 @@ pandas
 numpy
 scikit-learn
 plotly
-mlxtend
+mlxtend==0.22.0
